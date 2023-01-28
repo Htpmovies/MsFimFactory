@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready"""
+Myself <a href=https://t.me/{}>{}</a>,\n\nDon't chat wit bot simple join movies group and type movie you want \n\nAre you ready"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """
