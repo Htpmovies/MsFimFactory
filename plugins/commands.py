@@ -28,9 +28,6 @@ async def start(client, message):
             [
                 InlineKeyboardButton('🙆🏻 Help 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ],
-            [
-                InlineKeyboardButton('😎How to Use Me', url='https://t.me/Htpmoviesdnk/110')
-            ],
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -49,11 +46,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('😎 Movies group 😎', url='https://t.me/+BL30XPOxWUU4MGM9'),
             InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/htp_movies666'),
-            InlineKeyboardButton('😎How to Use Me', url='https://t.me/Htpmoviesdnk/110')
             ],[
             InlineKeyboardButton('🙆🏻 Help ', callback_data='help'),
-            InlineKeyboardButton('♥️ About ', callback_data='about'),
-            InlineKeyboardButton('😎How to Use Me', url='https://t.me/Htpmoviesdnk/110')
+            InlineKeyboardButton('♥️ About ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -97,11 +92,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('😎 Movies Group 😎', url='https://t.me/+BL30XPOxWUU4MGM9'),
             InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/htp_movies666'),
-            InlineKeyboardButton('😎How to Use Me', url='https://t.me/Htpmoviesdnk/110')
             ],[
             InlineKeyboardButton('🙆🏻 Help ', callback_data='help'),
             InlineKeyboardButton('♥️ About ', callback_data='about'),
-            InlineKeyboardButton('😎How to Use Me', url='https://t.me/Htpmoviesdnk/110')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
