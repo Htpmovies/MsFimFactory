@@ -7,7 +7,7 @@ Here is the help for my COMMANDS."""
 ╔════❰ HTP MOVIES ❱═❍⊱❁۪۪
 ║ ┏━━━━━━━━━━━━━━━➣
 ║ ┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/>Mr HTP</a> ✨
+║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/Htpmoviesdnk>Mr HTP</a> ✨
 ║ ┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║ ┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║ ┣⪼ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -16,14 +16,14 @@ Here is the help for my COMMANDS."""
 ║ ┗━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     SOURCE_TXT = """<b>NOTE:</b>
-- MS FILM FACTORY is an open source project. 
-- Source - https://t.me/rolex_sir_22  
+- HTP MOVIES. 
+- Source - https://t.me/Htpmoviesdnk  
 
 <b>DEVS:</b>
-- <a href=https://t.me/rolex_sir_22>Mr HTP</a>"""
+- <a href=https://t.me/Htpmoviesdnk>Mr HTP</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and MS Film Factory will respond whenever that keyword hits the message
+- .
 
 <b>NOTE:</b>
 1. BOT should have admin privillage.
@@ -45,7 +45,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](url=https://t.me/Htpmoviesdnk)</code>
+<code>[Button Text](url=https://t.me/Htpmoviesdnk BH)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
